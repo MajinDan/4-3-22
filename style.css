@@ -11,4 +11,6 @@ div {
 span {
     color: crimson;
     text-decoration:underline;
+    text-transform:uppercase;
+    line-height:100px;
 }
