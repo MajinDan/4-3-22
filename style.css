@@ -1,0 +1,14 @@
+img {
+    height:100px;
+    width:100px;
+}
+div {
+    border:solid black;
+    background-color: green;
+    height:150px;
+    width:150px;
+    }
+span {
+    color: crimson;
+    text-decoration:underline;
+}
